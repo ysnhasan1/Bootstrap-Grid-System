@@ -1,0 +1,19 @@
+/* Bootstrap Exercise (style.css) */
+
+.container {
+    /* to center the container */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.item {
+    /* to center the penguins */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 30px;
+    border: 1px solid black;
+}
