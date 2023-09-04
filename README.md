@@ -16,7 +16,11 @@ On a big screen it might look better with the content organized in four columns,
 
 * Bootstrap includes six default breakpoints for building responsively.
 
+<div align="center">
 <img src="https://github.com/ysnhasan1/Bootstrap-Grid-System/assets/102024926/2c219994-10eb-4b3a-85ee-f917fa504d84" width="700"><br />
+</div>
 
 ## Responsive to Different Screen Sizes
+<div align="center">
 <img src="https://github.com/ysnhasan1/Bootstrap-Grid-System/assets/102024926/a692ecf1-5402-4fe6-b040-7eaf480e6f4b" height="250">
+</div>
